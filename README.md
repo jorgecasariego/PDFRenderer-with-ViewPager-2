@@ -51,5 +51,4 @@ to the user.
     *  Added MarginPageTransformer and CompositePageTransformer, which allows you to achieve beautiful custom animations for your pages
 
 ## Demo
-![alt text]( 
-"PDF Demo")
+<img src="https://github.com/jorgecasariego/PDFRenderer-with-ViewPager-2/blob/master/demo/test.gif" alt="alt text" width="400" height="790">
